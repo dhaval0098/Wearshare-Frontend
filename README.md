@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# Wear-share" 
 "# -wear-share-Frontend" 
 "# -wear-share-Frontend" 
+"# -wear-share-Frontend" 
